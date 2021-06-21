@@ -15,7 +15,7 @@
   "boot": "auto",
   "host_network": true,
   "homeassistant_api": true,
-  "image": "ringhass/{arch}-ringhass",
+  "image": "romanost/ring-hassio",
   "ports": {
         "3000/tcp": 3000
     },
